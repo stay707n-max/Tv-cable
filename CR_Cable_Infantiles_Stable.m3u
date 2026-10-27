@@ -1,0 +1,227 @@
+#EXTM3U
+#PLAYLIST: Costa Rica + Cable Populares + Infantiles 24/7 (Enfoque Estabilidad)
+# Creado: 2026-10-27
+# Prioridad: canales más estables + 24/7 infantiles
+
+########################
+##### COSTA RICA #######
+########################
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Costa Rica",Canal 1 HD
+https://vid.canal1cr.com:3424/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4 Repretel SD
+http://45.186.106.207:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4 Repretel SD [Opc.2]
+http://45.228.234.62:8000/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica",Canal 6 Repretel SD
+http://186.33.0.57:8000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica",Canal 6 Repretel SD [Opc.2]
+http://45.5.117.187:8000/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Costa Rica",Teletica 7 HD
+http://190.61.101.11:7050/play/a07t/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica",Canal 8 Multimedios HD
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Costa Rica",Canal 10 HD
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel SD
+http://45.5.117.188:8000/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39Z9cyWd/Repretel-11-logo.png" group-title="Costa Rica",Canal 11 Repretel SD [Opc.2]
+http://190.61.101.11:7050/play/a07n/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica",TD+ HD
+http://45.186.106.207:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica",TD+ 2 HD
+http://45.186.106.207:8000/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="Costa Rica",MultiCanal
+http://190.61.101.11:7050/play/a09p/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Costa Rica",¡OPA! HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://genteopa.com/envivo/
+https://5fe2654d6127d.streamlock.net/genteopabackup/videogenteopabackup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="Costa Rica",TDtv TD+ HD
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aNEo6U.png" group-title="Costa Rica",Canal 14 HD (San Carlos)
+https://59ef525c24caa.streamlock.net/canal14/canal14/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica",TV Sur Canal 14 HD
+https://59ef525c24caa.streamlock.net/tvsur/tvsur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica",Nicoya TV HD
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m3xu6Ms.png" group-title="Costa Rica",TeleBrunca HD
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Costa Rica",Colosal TV HD
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="Costa Rica",Antena Seis TV HD (Grecia)
+https://video1.azulstream.com:8081/antenaseistv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica",Costa Rica Channel HD
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="Costa Rica",TeleMas SD
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cIvfnsa.jpg" group-title="Costa Rica",Telered Television HD
+#EXTVLCOPT:http-referrer=https://teleredtelevision.com/
+https://k20.usastreams.com:8081/telered/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/OX5yIxwlS0G571zxAPU4IAv3R53fAlSTAQU14awu.png" group-title="Costa Rica",Super Canal
+https://video20.klm99.com:3107/live/supercanallive.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/OX5yIxwlS0G571zxAPU4IAv3R53fAlSTAQU14awu.png" group-title="Costa Rica",Super Canal [Opc.2]
+https://183.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HSSyRDs/conexion-positiva.png" group-title="Costa Rica",Conexion Positiva
+https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
+
+########################
+##### CABLE PREMIUM ####
+########################
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cable Premium",HBO HD
+http://190.108.83.69:8000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cable Premium",HBO HD [Opc.2]
+http://200.59.191.177:8000/play/a00l/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cable Premium",HBO2 HD
+http://190.108.83.69:8000/play/a03m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cable Premium",HBO Plus HD
+http://45.5.117.188:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Cable Premium",HBO POP HD
+http://190.108.83.69:8000/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cable Premium",HBO Family HD
+http://190.108.83.69:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cable Premium",HBO Xtreme HD
+http://190.108.83.69:8000/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cable Premium",Golden SD
+http://181.224.255.210:8001/play/a0nz/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cable Premium",Golden EDGE HD
+http://190.108.83.69:8000/play/a03n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cable Premium",Golden Premiere
+http://190.108.83.69:8000/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Cable Premium",TNT HD
+http://190.108.83.69:8000/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" group-title="Cable Premium",Warner Channel HD
+http://190.108.83.69:8000/play/a03q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cable Premium",Cinecanal HD
+http://190.108.83.69:8000/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Cable Premium",STAR Channel HD
+http://190.108.83.69:8000/play/a03s/index.m3u8
+
+########################
+##### ENT CHANNELS #####
+########################
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="ENT",ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="ENT",ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png" group-title="ENT",ENT Movies
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" group-title="ENT",ENT Drama
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png" group-title="ENT",ENT Classic
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" group-title="ENT",ENT Comedy
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" group-title="ENT",ENT Extreme
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png" group-title="ENT",ENT Life
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+
+########################
+##### MCU + SIMPSONS ###
+########################
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Marvel_Cinematic_Universe_logo.png" group-title="MCU / Series",MCU TV
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="MCU / Series",Los Simpson Latino
+https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="MCU / Series",Los Simpson Latino [Opc.2]
+https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
+
+########################
+### INFANTILES 24/7 ####
+### (Prioridad Alta) ###
+########################
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YF0dppZ2/plimplim.png" group-title="Infantiles 24/7",Plim Plim TV
+http://205.235.6.29:8000/play/a0xo/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Infantiles 24/7",Chinola TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles 24/7",Cartoon Network HD
+http://190.108.83.69:8000/play/a08g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles 24/7",Cartoon Network SD
+http://181.224.255.210:8001/play/a0py/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles 24/7",Nickelodeon HD
+http://181.224.255.210:8001/play/a0fm/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles 24/7",Nickelodeon HD [Opc.2]
+http://181.224.255.210:8001/play/a0ol/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Infantiles 24/7",Nick Jr HD
+http://190.108.83.69:8000/play/a03l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles 24/7",Disney Channel HD
+http://205.235.6.29:8000/play/a0zp/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles 24/7",Disney Channel HD [Opc.2]
+http://181.224.255.210:8001/play/a0oe/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantiles 24/7",Disney Jr HD
+http://205.235.6.29:8000/play/a0zq/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JPtmZR.png" group-title="Infantiles 24/7",Discovery Kids HD
+http://186.148.184.22:8000/play/a0l3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JPtmZR.png" group-title="Infantiles 24/7",Discovery Kids SD
+http://181.224.255.210:8001/play/a0pv/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGk7MJ3.png" group-title="Infantiles 24/7",Canal Infantil
+http://181.225.190.242:8000/play/a00j
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo.png" group-title="Infantiles 24/7",BabyFirst
+http://45.5.118.152:8000/play/a0dx/index.m3u8
+
